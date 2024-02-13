@@ -1,4 +1,4 @@
-![image](https://github.com/ananonymousauthor-1024/ARTR/assets/110316351/5944ace7-f21d-4b21-abe7-853e1069061d)# AR-Trip
+# AR-Trip
 
 ## Brief Introduction
 
